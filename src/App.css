@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.container {
+  border: 2px solid white;
+  border-radius: 5px;
+}
+.content {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+body {
+  background: url(../src/components/iss-bg.jpg);
+  width: auto;
+  height: 80vh;
+}
+
+.iss-icon {
+  width: 60px;
+  height: auto;
+}
